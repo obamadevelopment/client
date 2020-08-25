@@ -8,3 +8,6 @@
   - Thanks to 086 for the base of the client, and any contributors.
   - Thanks to whatever clients some of this stuff is skidded/based from lol.
   - Thanks to Obama for help with modules
+  
+  
+  trans rights~!
